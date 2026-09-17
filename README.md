@@ -1,5 +1,3 @@
-Got it—here is a simple, lightweight `README.md` tailored for an internship draft without all the corporate clutter.
-
 ```markdown
 # KMU (v1)
 
