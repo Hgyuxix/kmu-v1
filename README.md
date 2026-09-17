@@ -53,9 +53,7 @@ php artisan serve
 
 
 ## 📌 Project Note
-
-This repository contains the unrefined version (v1) developed during the internship. Functionality and code structure reflect early-stage work and testing.
-
 ```
+This repository contains the unrefined version (v1) developed during the internship. Functionality and code structure reflect early-stage work and testing.
 
 ```
